@@ -85,7 +85,7 @@
                       <a class="page-scroll active" href="#home">الرئيسية</a>
                     </li>
                     <li class="nav-item">
-                      <a class="page-scroll" href="#features">قائمة الخدمات</a>
+                      <a class="page-scroll" href="services">قائمة الخدمات</a>
                     </li>
                    
                   </ul>
@@ -96,7 +96,7 @@
                   <a
                     class="main-btn"
                     data-scroll-nav="0"
-                    href="https://uideck.com/templates/basic/"
+                    href="https://api.whatsapp.com/send?phone=905359534683"
                     rel="nofollow"
                   >
                     اتصل بنا
@@ -146,7 +146,7 @@
 
                 </p>
                 <a
-                  href="javascript:void(0)"
+                  href="reg"
                   class="main-btn wow fadeInUp"
                   data-wow-duration="1.3s"
                   data-wow-delay="1.1s"
@@ -155,7 +155,7 @@
                 </a>
                 </p>
                 <a
-                  href="javascript:void(0)"
+                  href="login"
                   class="main-btn wow fadeInUp"
                   data-wow-duration="1.3s"
                   data-wow-delay="1.1s"
@@ -335,7 +335,7 @@
                 <p class="text">
                   أسرع موقع في الوطن العربي في زيادة المتابعين وتنفيذ الطلبات, مع لوحة سهلة الاستخدام لا تحتاج لخبراء في المجال.
                 </p>
-                <a href="javascript:void(0)" class="main-btn">أنشئ حساب مجاناً</a>
+                <a href="reg" class="main-btn">أنشئ حساب مجاناً</a>
               </div>
               <!-- about content -->
             </div>
@@ -382,7 +382,7 @@
                 <p class="text">
                   لا يطلب الموقع أي نوع من البيانات الخاصة لحسابات التواصل الإجتماعي, يمكنك فقط إضافة الرابط ثم طلب الخدمات بدون إدخال كلمة المرور.
                 </p>
-                <a href="javascript:void(0)" class="main-btn">أنشئ حساب مجاناً</a>
+                <a href="reg" class="main-btn">أنشئ حساب مجاناً</a>
               </div>
               <!-- about content -->
             </div>
@@ -423,7 +423,7 @@
                 <p class="text">
                   أرخص الأسعار التي يمكنك الحصول عليها تجدها في موقعنا, أسعار الخدمات من المصدر بشكل مباشر لا يوجد وسيط.
                 </p>
-                <a href="javascript:void(0)" class="main-btn">الإطلاع على الأسعار</a>
+                <a href="services" class="main-btn">الإطلاع على الأسعار</a>
               </div>
               <!-- about content -->
             </div>
@@ -600,9 +600,9 @@
                     <h4 class="title">روابط سريعة</h4>
                   </div>
                   <ul class="link">
-                    <li><a href="javascript:void(0)">API</a></li>
+                    <li><a href="developer">API</a></li>
                     <li><a href="javascript:void(0)">طريقة الاستخدام</a></li>
-                    <li><a href="javascript:void(0)">المدونة</a></li>
+                    <li><a href="blogs">المدونة</a></li>
                   </ul>
                 </div>
                 <!-- footer wrapper -->
@@ -615,9 +615,9 @@
                     <h4 class="title">الصفحات</h4>
                   </div>
                   <ul class="link">
-                    <li><a href="javascript:void(0)">الرئيسية</a></li>
-                    <li><a href="javascript:void(0)">الخدمات</a></li>
-                    <li><a href="javascript:void(0)">الطلب السريع</a></li>
+                    <li><a href="#home">الرئيسية</a></li>
+                    <li><a href="services">الخدمات</a></li>
+                    <li><a href="order">الطلب السريع</a></li>
                   </ul>
                 </div>
                 <!-- footer wrapper -->
