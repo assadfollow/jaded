@@ -485,10 +485,10 @@
                     <div class="counter-items text-center">
                       <span
                         class="count countup text-uppercase"
-                        cup-end="125"
+                        cup-end="857"
                       ></span>
 
-                      <p class="text">Downloads</p>
+                      <p class="text">طلب مكتمل</p>
                     </div>
                   </div>
                   <!-- single counter -->
@@ -506,9 +506,9 @@
                     <div class="counter-items text-center">
                       <span
                         class="count countup text-uppercase"
-                        cup-end="87"
+                        cup-end="38"
                       ></span>
-                      <p class="text">Active Users</p>
+                      <p class="text">مستخدم نشيط</p>
                     </div>
                   </div>
                   <!-- single counter -->
