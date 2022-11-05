@@ -545,14 +545,14 @@
               <img class="dots" src="assets/images/video/dots.svg" alt="dots" />
               <div class="video-wrapper">
                 <div class="video-image">
-                  <img src="assets/images/video/video.png" alt="video" />
+                  <img src="https://www.raed.net/img?id=140057" />
                 </div>
                 <div class="video-icon">
                   <a
-                    href="https://www.youtube.com/watch?v=r44RKWyfcFw"
-                    class="video-popup glightbox"
-                  >
-                    <i class="lni lni-play"> </i>
+                    href="https://www.youtube.com/watch?v=r44RKWyfcFw" class="video-popup glightbox">
+                    <i class="lni lni-play">
+                    <img src="https://www.freeiconspng.com/thumbs/video-play-icon/video-play-icon-24.png" alt="video">
+                    </i>
                   </a>
                 </div>
               </div>
