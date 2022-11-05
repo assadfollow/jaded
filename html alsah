@@ -542,7 +542,7 @@
               data-wow-duration="1s"
               data-wow-delay="0.5s"
             >
-              <img class="dots" src="assets/images/video/dots.svg" alt="dots" />
+             
               <div class="video-wrapper">
                 <div class="video-image">
                   <img src="https://www.raed.net/img?id=140057" />
@@ -551,7 +551,7 @@
                   <a
                     href="https://www.youtube.com/watch?v=r44RKWyfcFw" class="video-popup glightbox">
                     <i class="lni lni-play">
-                    <img src="https://www.freeiconspng.com/thumbs/video-play-icon/video-play-icon-24.png" alt="video">
+                    <img src="https://www.freepnglogos.com/uploads/play-button-png/play-button-ifa-1.png">
                     </i>
                   </a>
                 </div>
