@@ -586,28 +586,6 @@
                 <p class="text">
                   Followinstatik || ارخص وافضل موقع زيادة متابعين
                 </p>
-                <ul class="social">
-                  <li>
-                    <a href="javascript:void(0)">
-                      <i class="lni lni-facebook-filled"> </i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="javascript:void(0)">
-                      <i class="lni lni-twitter-filled"> </i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="javascript:void(0)">
-                      <i class="lni lni-instagram-filled"> </i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="javascript:void(0)">
-                      <i class="lni lni-linkedin-original"> </i>
-                    </a>
-                  </li>
-                </ul>
               </div>
               <!-- footer about -->
             </div>
