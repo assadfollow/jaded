@@ -526,9 +526,9 @@
                     <div class="counter-items text-center">
                       <span
                         class="count countup text-uppercase"
-                        cup-end="59"
+                        cup-end="9"
                       ></span>
-                      <p class="text">User Rating</p>
+                      <p class="text">زائر في اليوم</p>
                     </div>
                   </div>
                   <!-- single counter -->
