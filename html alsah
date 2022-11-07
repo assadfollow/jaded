@@ -36,11 +36,11 @@
 <!-- /GetButton.io widget -->
 
     <!--====== CSS Files LinkUp ======-->
-    <link rel="stylesheet" href="https://raw.githack.com/assadfollow/New/main/animate.css" />
-    <link rel="stylesheet" href="https://raw.githack.com/assadfollow/New/main/glightbox.min.css" />
-    <link rel="stylesheet" href="https://raw.githack.com/assadfollow/New/main/lineicons.css" />
-    <link rel="stylesheet" href="https://raw.githack.com/assadfollow/New/main/bootstrap.min.css" />
-    <link rel="stylesheet" href="https://raw.githack.com/assadfollow/Ahmad/main/style.css" />
+    <link rel="stylesheet" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860828/animate_tbxait.css" />
+    <link rel="stylesheet" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860828/glightbox.min_cviwpt.css" />
+    <link rel="stylesheet" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860828/lineicons_oq2p9w.css" />
+    <link rel="stylesheet" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860829/bootstrap.min_kceksm.css" />
+    <link rel="stylesheet" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860828/style_rsbpfo.css" />
   </head>
 
   <body>
@@ -681,11 +681,11 @@
     <!--====== BACK TOP TOP PART ENDS ======-->
 
     <!--====== Javascript Files ======-->
-    <script src="https://raw.githack.com/assadfollow/New/main/bootstrap.bundle.min.js"></script>
-    <script src="https://raw.githack.com/assadfollow/New/main/wow.min.js"></script>
-    <script src="https://raw.githack.com/assadfollow/New/main/glightbox.min.js"></script>
-    <script src="https://raw.githack.com/assadfollow/New/main/count-up.min.js"></script>
-    <script src="https://raw.githack.com/assadfollow/New/main/particles.min.js"></script>
-    <script src="https://raw.githack.com/assadfollow/rama/main/main.js"></script>
+    <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860988/bootstrap.bundle.min_lqjfz4.js"></script>
+    <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860989/wow.min_sejwve.js"></script>
+    <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860988/glightbox.min_p4esbp.js"></script>
+    <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860988/count-up.min_zwxqwl.js"></script>
+    <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860988/particles.min_m5w33f.js"></script>
+    <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860988/main_xhrnh3.js"></script>
   </body>
 </html>
