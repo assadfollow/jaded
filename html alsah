@@ -549,7 +549,7 @@
                 </div>
                 <div class="video-icon">
                   <a
-                    href="https://www.youtube.com/watch?v=r44RKWyfcFw" class="video-popup glightbox">
+                    href="https://www.youtube.com/watch?v=_uAK8hMy4hc" class="video-popup glightbox">
                     <i class="lni lni-play">
                     <img src="https://www.freepnglogos.com/uploads/play-button-png/play-button-ifa-1.png" alt="تشغيل الفيديو">
                     </i>
@@ -601,7 +601,7 @@
                   </div>
                   <ul class="link">
                     <li><a href="developer">API</a></li>
-                    <li><a href="javascript:void(0)">طريقة الاستخدام</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=_uAK8hMy4hc">طريقة الاستخدام</a></li>
                     <li><a href="blogs">المدونة</a></li>
                   </ul>
                 </div>
@@ -679,6 +679,6 @@
     <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860988/glightbox.min_p4esbp.js"></script>
     <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860988/count-up.min_zwxqwl.js"></script>
     <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860988/particles.min_m5w33f.js"></script>
-    <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1667860988/main_xhrnh3.js"></script>
+    <script src="https://res.cloudinary.com/dhhn08v44/raw/upload/v1668136922/main_dczhcq.js"></script>
   </body>
 </html>
